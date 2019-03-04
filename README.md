@@ -1,4 +1,7 @@
 # myWebAPIDemo
+
+Project Blog Site: https://portfolio.katiegirl.net/2017/11/09/lucky-lottery-numbers-a-simple-asp-net-web-api/
+
 My Web API Demo:
 
 This is a simple ASP.NET Web API that also demonstrates a RESTful api. It will calculate and return lucky lottery numbers based on either a default (api/values/) or custom HTTP Get Request (example: values?name=Kathleen&age=36) with TWO input parameters in the request.
