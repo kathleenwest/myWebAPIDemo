@@ -1,0 +1,66 @@
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\myWebAPIDemo.dll.config
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\myWebAPIDemo.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\myWebAPIDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\Antlr3.Runtime.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\Newtonsoft.Json.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Helpers.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Http.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Mvc.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Optimization.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Razor.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\WebGrease.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\Antlr3.Runtime.pdb
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Optimization.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\Newtonsoft.Json.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Helpers.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Http.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Mvc.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Razor.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\obj\Release\myWebAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\obj\Release\myWebAPIDemo.dll
+C:\Users\KathleenWest\Dropbox\Career\Classes\UC San Diego Extension\Fundamentals of dot NET\Lesson 5\myWebAPIDemo\myWebAPIDemo\myWebAPIDemo\obj\Release\myWebAPIDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\myWebAPIDemo.dll.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\myWebAPIDemo.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\myWebAPIDemo.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\Antlr3.Runtime.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\Newtonsoft.Json.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Net.Http.Formatting.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Helpers.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Http.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Http.WebHost.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Mvc.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Optimization.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Razor.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.Deployment.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.Razor.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\WebGrease.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\Antlr3.Runtime.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Optimization.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\Newtonsoft.Json.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Net.Http.Formatting.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Helpers.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Http.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Http.WebHost.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Mvc.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.Razor.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.Deployment.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\bin\System.Web.WebPages.Razor.xml
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\obj\Release\myWebAPIDemo.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\obj\Release\myWebAPIDemo.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\obj\Release\myWebAPIDemo.csproj.CopyComplete
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\obj\Release\myWebAPIDemo.dll
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\myWebAPIDemo\myWebAPIDemo\obj\Release\myWebAPIDemo.pdb

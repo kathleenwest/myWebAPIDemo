@@ -1,0 +1,27 @@
+﻿<div class="jumbotron">
+    <h1>my WebAPIDemo</h1>
+    <p class="lead">This is a simple ASP.NET Web API that also demonstrates a RESTful api. <br />
+    
+
+    </p>
+</div>
+<div class="row">
+    This is a simple service application that accepts a user's name
+    and age then outputs six lucky lottery numbers.
+    The lucky numbers are based on the user's age, today's date,
+    a random number generator, and most frequent powerball number is 20
+    Note: The maximum PowerBall number is 69
+
+    <div class="col-md-4">
+        <h2>Default</h2>
+        <p>The default response with no user input passed in the HTTP GET to the API</p>
+        <p><a class="btn btn-default" href="/api/values/">Receive your lucky lottery numbers, Stranger.</a></p>
+    </div>
+    <div class="col-md-4">
+        <h2>Name, Age</h2>
+        <p>The response for a user name and age values in the HTTP GET to the API. 
+        Kathleen is 36 and is asking for lottery numbers. Her URL is: </p>
+        <p><a class="btn btn-default" href="/api/values?name=Kathleen&age=36">/api/values?name=Kathleen&age=36</a></p>
+    </div>
+
+</div>
